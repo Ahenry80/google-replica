@@ -1,0 +1,44 @@
+.jumbotron{
+  background-color: white;
+  text-align: center;
+}
+#top{
+  text-align: right;
+  margin-top: 15px;
+
+}
+.btn-primary{
+  border-radius: 0px;
+  margin-right: 5px;
+}
+a{
+  margin-left: 20px;
+  color: inherit;
+}
+a:hover{
+  color: black;
+}
+.btn-default{
+   background-color: #e6e6e6;
+   color: #595959;
+  border-radius: 0px;
+  margin: 10px;
+}
+.btn-default:hover{
+  background-color: #f2f2f2;
+  border-color: grey;
+  color: #000000;
+}
+.material-icons{
+  font-size: 30px;
+}
+nav{
+  background-color:#e6e6e6;
+   position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  }
+.right{
+  float: right;
+}
